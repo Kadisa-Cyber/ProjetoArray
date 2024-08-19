@@ -1,0 +1,12 @@
+C:\Users\Aluno\Desktop\ProjetoArray\bin\Debug\ProjetoArray.exe.config
+C:\Users\Aluno\Desktop\ProjetoArray\bin\Debug\ProjetoArray.exe
+C:\Users\Aluno\Desktop\ProjetoArray\bin\Debug\ProjetoArray.pdb
+C:\Users\Aluno\Desktop\ProjetoArray\obj\Debug\ProjetoArray.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\ProjetoArray\obj\Debug\ProjetoArray.Form1.resources
+C:\Users\Aluno\Desktop\ProjetoArray\obj\Debug\ProjetoArray.Properties.Resources.resources
+C:\Users\Aluno\Desktop\ProjetoArray\obj\Debug\ProjetoArray.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\ProjetoArray\obj\Debug\ProjetoArray.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\ProjetoArray\obj\Debug\ProjetoArray.exe
+C:\Users\Aluno\Desktop\ProjetoArray\obj\Debug\ProjetoArray.pdb
+C:\Users\Aluno\Desktop\ProjetoArray\obj\Debug\ProjetoArray.Exercicio2.resources
+C:\Users\Aluno\Desktop\ProjetoArray\obj\Debug\ProjetoArray.Exercicio3.resources
